@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="magazalarModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="bolumler">
+    <Key>
+      <PropertyRef Name="bolumno" />
+    </Key>
+    <Property Name="bolumno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sorumluno" Type="int" />
+    <Property Name="bolumadi" Type="varchar" MaxLength="50" />
+    <Property Name="bolumurunsayisi" Type="int" />
+  </EntityType>
+  <EntityType Name="kullanicilar">
+    <Key>
+      <PropertyRef Name="kullanicino" />
+    </Key>
+    <Property Name="kullanicino" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kullaniciadi" Type="varchar" MaxLength="50" />
+    <Property Name="sifre" Type="varchar" MaxLength="50" />
+    <Property Name="mail" Type="varchar" MaxLength="50" />
+    <Property Name="telefon" Type="char" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="magaza">
+    <Key>
+      <PropertyRef Name="magazano" />
+    </Key>
+    <Property Name="magazano" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="magazaadi" Type="varchar" MaxLength="50" />
+    <Property Name="magazaciro" Type="varchar" MaxLength="50" />
+    <Property Name="magazaadres" Type="varchar" MaxLength="50" />
+    <Property Name="sevkiyattarih" Type="varchar" MaxLength="50" />
+    <Property Name="sevkiyatgunu" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="malzeme">
+    <Key>
+      <PropertyRef Name="malzemeno" />
+    </Key>
+    <Property Name="malzemeno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="magazano" Type="int" />
+    <Property Name="malzemeadi" Type="varchar" MaxLength="50" />
+    <Property Name="malzemeadet" Type="int" />
+    <Property Name="malzemebirimfiyat" Type="money" />
+    <Property Name="malzemekod" Type="varchar" MaxLength="50" />
+    <Property Name="malzemeaciklama" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sorumlu">
+    <Key>
+      <PropertyRef Name="sorumluno" />
+    </Key>
+    <Property Name="sorumluno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="magazano" Type="int" />
+    <Property Name="sorumluadi" Type="varchar" MaxLength="50" />
+    <Property Name="sorumlumaas" Type="money" />
+    <Property Name="sorumluprim" Type="money" />
+    <Property Name="sorumluvardiya" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_bolumler_sorumlu">
+    <End Role="sorumlu" Type="Self.sorumlu" Multiplicity="0..1" />
+    <End Role="bolumler" Type="Self.bolumler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sorumlu">
+        <PropertyRef Name="sorumluno" />
+      </Principal>
+      <Dependent Role="bolumler">
+        <PropertyRef Name="sorumluno" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_malzeme_magaza">
+    <End Role="magaza" Type="Self.magaza" Multiplicity="0..1" />
+    <End Role="malzeme" Type="Self.malzeme" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="magaza">
+        <PropertyRef Name="magazano" />
+      </Principal>
+      <Dependent Role="malzeme">
+        <PropertyRef Name="magazano" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sorumlu_magaza">
+    <End Role="magaza" Type="Self.magaza" Multiplicity="0..1" />
+    <End Role="sorumlu" Type="Self.sorumlu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="magaza">
+        <PropertyRef Name="magazano" />
+      </Principal>
+      <Dependent Role="sorumlu">
+        <PropertyRef Name="magazano" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="magazalarModelStoreContainer">
+    <EntitySet Name="bolumler" EntityType="Self.bolumler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kullanicilar" EntityType="Self.kullanicilar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="magaza" EntityType="Self.magaza" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="malzeme" EntityType="Self.malzeme" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sorumlu" EntityType="Self.sorumlu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_bolumler_sorumlu" Association="Self.FK_bolumler_sorumlu">
+      <End Role="sorumlu" EntitySet="sorumlu" />
+      <End Role="bolumler" EntitySet="bolumler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_malzeme_magaza" Association="Self.FK_malzeme_magaza">
+      <End Role="magaza" EntitySet="magaza" />
+      <End Role="malzeme" EntitySet="malzeme" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sorumlu_magaza" Association="Self.FK_sorumlu_magaza">
+      <End Role="magaza" EntitySet="magaza" />
+      <End Role="sorumlu" EntitySet="sorumlu" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

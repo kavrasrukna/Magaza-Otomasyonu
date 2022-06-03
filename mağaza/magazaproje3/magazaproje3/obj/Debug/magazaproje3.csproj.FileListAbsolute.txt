@@ -1,0 +1,156 @@
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.AssemblyReference.cache
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.anasayfa.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolumler.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Form1.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.magazalar.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.malzemeler.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Properties.Resources.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.raporlar.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.sorumlular.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.GenerateResource.cache
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe.config
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\bin\Debug\magazaproje3.pdb
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CopyComplete
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.exe
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.pdb
+C:\Users\STUDENT1\Desktop\örneklerimiz\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolum.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe.config
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.pdb
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.AssemblyReference.cache
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.anasayfa.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolum.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolumler.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Form1.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.magazalar.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.malzemeler.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Properties.Resources.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.raporlar.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.sorumlular.resources
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.GenerateResource.cache
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CopyComplete
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.exe
+C:\Users\STUDENT1\Desktop\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.pdb
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe.config
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.pdb
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.dll
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.dll
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.xml
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.xml
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.AssemblyReference.cache
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.anasayfa.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolum.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolumler.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Form1.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.magazalar.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.malzemeler.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Properties.Resources.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.raporlar.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.sorumlular.resources
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.GenerateResource.cache
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CoreCompileInputs.cache
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CopyComplete
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.exe
+G:\DOSYALARIM\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.pdb
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe.config
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.pdb
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.dll
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.xml
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.anasayfa.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolum.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolumler.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Form1.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.magazalar.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.malzemeler.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Properties.Resources.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.raporlar.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.sorumlular.resources
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.GenerateResource.cache
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CopyComplete
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.exe
+C:\Users\HJP\Desktop\Yeni klasör\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.pdb
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe.config
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.pdb
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.dll
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.xml
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.anasayfa.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolum.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolumler.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Form1.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.magazalar.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.malzemeler.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Properties.Resources.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.raporlar.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.sorumlular.resources
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.GenerateResource.cache
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CopyComplete
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.exe
+C:\Users\HJP\Desktop\buna baksonn\mağaza\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.pdb
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe.config
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.pdb
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.dll
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.xml
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.anasayfa.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolum.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolumler.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Form1.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.magazalar.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.malzemeler.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Properties.Resources.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.raporlar.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.sorumlular.resources
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.GenerateResource.cache
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CopyComplete
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.exe
+C:\Users\HJP\Desktop\PROJELER sql\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.pdb
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe.config
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.exe
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\magazaproje3.pdb
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.dll
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.xml
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.AssemblyReference.cache
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.anasayfa.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolum.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.bolumler.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Form1.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.magazalar.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.malzemeler.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.Properties.Resources.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.raporlar.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.sorumlular.resources
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.GenerateResource.cache
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.csproj.CopyComplete
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.exe
+C:\Users\HJP\Documents\GitHub\Mağaza Otomasyonu 3(Entity Framework - DB First teknolojisi ile crud ve raporlama işlemleri Stored Proceduresüz )\mağaza\magazaproje3\magazaproje3\obj\Debug\magazaproje3.pdb

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="magazalarModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="bolumler">
+    <Key>
+      <PropertyRef Name="bolumno" />
+    </Key>
+    <Property Name="bolumno" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sorumluno" Type="Int32" />
+    <Property Name="bolumadi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="bolumurunsayisi" Type="Int32" />
+  </EntityType>
+  <EntityType Name="kullanicilar">
+    <Key>
+      <PropertyRef Name="kullanicino" />
+    </Key>
+    <Property Name="kullanicino" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kullaniciadi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="mail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="telefon" Type="String" MaxLength="15" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="magaza">
+    <Key>
+      <PropertyRef Name="magazano" />
+    </Key>
+    <Property Name="magazano" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="magazaadi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="magazaciro" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="magazaadres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sevkiyattarih" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sevkiyatgunu" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="malzeme">
+    <Key>
+      <PropertyRef Name="malzemeno" />
+    </Key>
+    <Property Name="malzemeno" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="magazano" Type="Int32" />
+    <Property Name="malzemeadi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="malzemeadet" Type="Int32" />
+    <Property Name="malzemebirimfiyat" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="malzemekod" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="malzemeaciklama" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="sorumlu">
+    <Key>
+      <PropertyRef Name="sorumluno" />
+    </Key>
+    <Property Name="sorumluno" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="magazano" Type="Int32" />
+    <Property Name="sorumluadi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sorumlumaas" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="sorumluprim" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="sorumluvardiya" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_bolumler_sorumlu">
+    <End Role="sorumlu" Type="Self.sorumlu" Multiplicity="0..1" />
+    <End Role="bolumler" Type="Self.bolumler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sorumlu">
+        <PropertyRef Name="sorumluno" />
+      </Principal>
+      <Dependent Role="bolumler">
+        <PropertyRef Name="sorumluno" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_malzeme_magaza">
+    <End Role="magaza" Type="Self.magaza" Multiplicity="0..1" />
+    <End Role="malzeme" Type="Self.malzeme" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="magaza">
+        <PropertyRef Name="magazano" />
+      </Principal>
+      <Dependent Role="malzeme">
+        <PropertyRef Name="magazano" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sorumlu_magaza">
+    <End Role="magaza" Type="Self.magaza" Multiplicity="0..1" />
+    <End Role="sorumlu" Type="Self.sorumlu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="magaza">
+        <PropertyRef Name="magazano" />
+      </Principal>
+      <Dependent Role="sorumlu">
+        <PropertyRef Name="magazano" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="magazalarEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="bolumlers" EntityType="Self.bolumler" />
+    <EntitySet Name="kullanicilars" EntityType="Self.kullanicilar" />
+    <EntitySet Name="magazas" EntityType="Self.magaza" />
+    <EntitySet Name="malzemes" EntityType="Self.malzeme" />
+    <EntitySet Name="sorumlus" EntityType="Self.sorumlu" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_bolumler_sorumlu" Association="Self.FK_bolumler_sorumlu">
+      <End Role="sorumlu" EntitySet="sorumlus" />
+      <End Role="bolumler" EntitySet="bolumlers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_malzeme_magaza" Association="Self.FK_malzeme_magaza">
+      <End Role="magaza" EntitySet="magazas" />
+      <End Role="malzeme" EntitySet="malzemes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sorumlu_magaza" Association="Self.FK_sorumlu_magaza">
+      <End Role="magaza" EntitySet="magazas" />
+      <End Role="sorumlu" EntitySet="sorumlus" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
